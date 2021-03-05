@@ -14,5 +14,6 @@
   "dependencies": {
     "js-yaml": "^3.14.0",
     "prettier": "^2.2.0"
-  }
+  },
+  "repository": "github:gr2m/run-test-action-workflow-on-renovate-branches"
 }
